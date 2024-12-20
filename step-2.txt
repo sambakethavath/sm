@@ -1,0 +1,12 @@
+git init
+
+git config --global user.name sambakethavath
+
+git config --global user.email ksamba_cse235a0507@mgit.ac.in
+
+git add .
+git commit -m " "
+
+git remote add origin 
+
+git push -u origin main
